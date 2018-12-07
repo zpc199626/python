@@ -1,0 +1,16 @@
+1543220737049	mozrunner::runner	INFO	Running command: "E:\\huohu\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaopc\\AppData\\Local\\Temp\\rust_mozprofile.dFgJ7bMKjdsR"
+1543220743822	Marionette	INFO	Listening on port 56466
+1543220744574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.moore.ren/src/js/sendcloud/subscribe.js, line 1: TypeError: e is null
+[Parent 3032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543220762285	Marionette	INFO	Stopped listening on port 56466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
